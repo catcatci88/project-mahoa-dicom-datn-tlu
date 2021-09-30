@@ -1,0 +1,16 @@
+D:\Code DATN\EncodeforDicom\bin\Debug\EncodeforDicom.exe.config
+D:\Code DATN\EncodeforDicom\bin\Debug\EncodeforDicom.exe
+D:\Code DATN\EncodeforDicom\bin\Debug\EncodeforDicom.pdb
+D:\Code DATN\EncodeforDicom\bin\Debug\Dicom.Core.dll
+D:\Code DATN\EncodeforDicom\bin\Debug\Dicom.Native64.dll
+D:\Code DATN\EncodeforDicom\obj\Debug\EncodeforDicom.csprojAssemblyReference.cache
+D:\Code DATN\EncodeforDicom\obj\Debug\EncodeforDicom.Properties.Resources.resources
+D:\Code DATN\EncodeforDicom\obj\Debug\EncodeforDicom.csproj.GenerateResource.cache
+D:\Code DATN\EncodeforDicom\obj\Debug\EncodeforDicom.csproj.CoreCompileInputs.cache
+D:\Code DATN\EncodeforDicom\obj\Debug\EncodeforDicom.csproj.CopyComplete
+D:\Code DATN\EncodeforDicom\obj\Debug\EncodeforDicom.exe
+D:\Code DATN\EncodeforDicom\obj\Debug\EncodeforDicom.pdb
+D:\Code DATN\EncodeforDicom\obj\Debug\EncodeforDicoms.DisplayForm.resources
+D:\Code DATN\EncodeforDicom\obj\Debug\EncodeforDicom.ReportForm.resources
+D:\Code DATN\EncodeforDicom\obj\Debug\EncodeforDicom.EncodeDicom.resources
+D:\Code DATN\EncodeforDicom\obj\Debug\EncodeforDicom.exe.config
